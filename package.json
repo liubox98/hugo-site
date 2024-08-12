@@ -2,8 +2,10 @@
     "name": "hugo-site",
     "version": "1.0.0",
     "scripts": {
-      "build": "wget https://github.com/goharbor/harbor/releases/download/v0.131.0/hugo_0.131.0_Windows-64bit.zip -O hugo.zip && unzip hugo.zip -d hugo && ./hugo/hugo"
+      "build": "hugo"
     },
-    "dependencies": {}
+    "devDependencies": {
+      "hugo-bin": "^0.126.0"
+    }
   }
   
