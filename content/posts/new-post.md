@@ -1,5 +1,5 @@
 ---
-title: "New Post"
+title: "Add New Post"
 date: 2024-08-12T12:00:00+08:00
 draft: false
 tags:
