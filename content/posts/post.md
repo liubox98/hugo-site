@@ -1,5 +1,5 @@
 +++
-title = "Welcome to My Blog"
+title = "post"
 date = 2024-08-12T11:31:08+08:00
 draft = false
 +++

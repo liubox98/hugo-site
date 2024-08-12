@@ -5,21 +5,43 @@
     
     
     
-    <link>https://hugo-site-fawn.vercel.app/posts/</link>
+    <link>https://hugo-site-liubox98gmailcoms-projects.vercel.app/posts/</link>
     <description>Recent content in Posts on Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 12 Aug 2024 11:31:08 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 12 Aug 2024 12:00:00 +0800</lastBuildDate>
     
-	<atom:link href="https://hugo-site-fawn.vercel.app/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://hugo-site-liubox98gmailcoms-projects.vercel.app/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Welcome to My Blog</title>
-      <link>https://hugo-site-fawn.vercel.app/posts/post/</link>
+      <title>New Post</title>
+      <link>https://hugo-site-liubox98gmailcoms-projects.vercel.app/posts/new-post/</link>
+      <pubDate>Mon, 12 Aug 2024 12:00:00 +0800</pubDate>
+      
+      <guid>https://hugo-site-liubox98gmailcoms-projects.vercel.app/posts/new-post/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          Introduction#This is my new post using Hugo.
+Subheading#Here is some more detailed content about the topic.
+Point 1 Point 2 Point 3 Conclusion#This concludes the post. Feel free to reach out if you have any questions!
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>post</title>
+      <link>https://hugo-site-liubox98gmailcoms-projects.vercel.app/posts/post/</link>
       <pubDate>Mon, 12 Aug 2024 11:31:08 +0800</pubDate>
       
-      <guid>https://hugo-site-fawn.vercel.app/posts/post/</guid>
+      <guid>https://hugo-site-liubox98gmailcoms-projects.vercel.app/posts/post/</guid>
       <description>
         
           

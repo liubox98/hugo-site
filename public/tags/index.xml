@@ -5,13 +5,54 @@
     
     
     
-    <link>https://hugo-site-fawn.vercel.app/tags/</link>
+    <link>https://hugo-site-liubox98gmailcoms-projects.vercel.app/tags/</link>
     <description>Recent content in Tags on Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Mon, 12 Aug 2024 12:00:00 +0800</lastBuildDate>
     
-	<atom:link href="https://hugo-site-fawn.vercel.app/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://hugo-site-liubox98gmailcoms-projects.vercel.app/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Hugo</title>
+      <link>https://hugo-site-liubox98gmailcoms-projects.vercel.app/tags/hugo/</link>
+      <pubDate>Mon, 12 Aug 2024 12:00:00 +0800</pubDate>
+      
+      <guid>https://hugo-site-liubox98gmailcoms-projects.vercel.app/tags/hugo/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>Tutorial</title>
+      <link>https://hugo-site-liubox98gmailcoms-projects.vercel.app/tags/tutorial/</link>
+      <pubDate>Mon, 12 Aug 2024 12:00:00 +0800</pubDate>
+      
+      <guid>https://hugo-site-liubox98gmailcoms-projects.vercel.app/tags/tutorial/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          
+          
+        
+        </description>
+    </item>
     
   </channel>
 </rss>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tutorial on Hugo Site</title>
+    
+    
+    
+    <link>https://hugo-site-liubox98gmailcoms-projects.vercel.app/tags/tutorial/</link>
+    <description>Recent content in Tutorial on Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 12 Aug 2024 12:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://hugo-site-liubox98gmailcoms-projects.vercel.app/tags/tutorial/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>New Post</title>
+      <link>https://hugo-site-liubox98gmailcoms-projects.vercel.app/posts/new-post/</link>
+      <pubDate>Mon, 12 Aug 2024 12:00:00 +0800</pubDate>
+      
+      <guid>https://hugo-site-liubox98gmailcoms-projects.vercel.app/posts/new-post/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          Introduction#This is my new post using Hugo.
+Subheading#Here is some more detailed content about the topic.
+Point 1 Point 2 Point 3 Conclusion#This concludes the post. Feel free to reach out if you have any questions!
+          
+        
+        </description>
+    </item>
+    
+  </channel>
+</rss>
