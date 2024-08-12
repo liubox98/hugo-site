@@ -5,21 +5,21 @@
     
     
     
-    <link>http://localhost:1313/posts/</link>
+    <link>https://hugo-site-fawn.vercel.app/posts/</link>
     <description>Recent content in Posts on Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 12 Aug 2024 11:54:22 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 12 Aug 2024 11:31:08 +0800</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://hugo-site-fawn.vercel.app/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Post</title>
-      <link>http://localhost:1313/posts/post/</link>
-      <pubDate>Mon, 12 Aug 2024 11:54:22 +0800</pubDate>
+      <title>Welcome to My Blog</title>
+      <link>https://hugo-site-fawn.vercel.app/posts/post/</link>
+      <pubDate>Mon, 12 Aug 2024 11:31:08 +0800</pubDate>
       
-      <guid>http://localhost:1313/posts/post/</guid>
+      <guid>https://hugo-site-fawn.vercel.app/posts/post/</guid>
       <description>
         
           
@@ -28,7 +28,10 @@
         
         
         
-          
+          欢迎来到我的博客！这是我的第一篇文章，我将在这里分享我的学习经历和技术见解。
+我的第一个提交#这是我第一次使用 Hugo 来创建和部署一个博客网站。我将探索如何使用 Hugo 的各种功能，定制主题，和管理内容。希望这个博客可以为你提供有价值的信息和有趣的内容。
+关于 Hugo#Hugo 是一个快速和现代的静态网站生成器，它以 Markdown 为基础，并支持丰富的模板功能。它让创建和发布网站变得简单而高效。
+感谢你的访问！请继续关注我发布的更多内容。如果你有任何问题或建议，欢迎通过评论或者邮件与我联系。
           
         
         </description>
